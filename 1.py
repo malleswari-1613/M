@@ -4,7 +4,7 @@ def fun(lst=None):
 	lst.append(10)
 	print(lst)
 
-
+	print("hello")
 fun()
 fun()
 fun()
