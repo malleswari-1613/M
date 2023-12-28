@@ -5,5 +5,4 @@ def fun(lst=None):
 	print(lst)
 
 fun()
-fun()
-fun()
+
